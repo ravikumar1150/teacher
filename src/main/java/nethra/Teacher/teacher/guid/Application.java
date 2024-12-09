@@ -9,6 +9,8 @@ public class Application {
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
 		String name ="ravi";
+
+		Double sal=9000.00;
 		int rollNumber=8;
 	}
 
