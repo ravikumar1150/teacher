@@ -10,6 +10,7 @@ public class Application {
 		SpringApplication.run(Application.class, args);
 		String name ="ravi";
 		Double sal=9000.00;
+		String dept="cse";
 	}
 
 }
