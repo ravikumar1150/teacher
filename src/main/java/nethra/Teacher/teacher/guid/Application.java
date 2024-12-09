@@ -14,7 +14,7 @@ public class Application {
 
 		String dept="cse";
 		int rollNumber=8;
-
+      String Date=2004;
 	}
 
 }
