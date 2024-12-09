@@ -14,7 +14,10 @@ public class Application {
 
 		String dept="cse";
 		int rollNumber=8;
+
       String Date=2004;
+String join= "2008";
+
 	}
 
 }
